@@ -10,3 +10,11 @@ fn main() {
 struct Todo {
     map: HashMap<String, bool>,
 }
+
+impl Todo {
+    fn insert(&mut self, key: String) {
+        // insert a new item into our map
+        // we pass true as a value
+        self.map.insert(key, true);
+    }
+}
