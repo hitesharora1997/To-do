@@ -6,3 +6,16 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+thiserror = "1"
+# For error handling
+
+tokio = { version = "1" , features = ["full"] }
+# When using async 
+
+clap = {version = "4" , features = ["cargo"]}
+# When using a cli
+
+
+[dev-dependencies]
+anyhow = "1"
+# For unit test, benchmark and much more

@@ -1,4 +1,4 @@
-use std::collections::HashMap;
+use std::{collections::HashMap, fmt::format};
 fn main() {
     let action = std::env::args().nth(1).expect("Please enter the action"); // Reading first arg
     let item = std::env::args().nth(2).expect("Please enter the item"); // Reading second arg
@@ -16,5 +16,12 @@ impl Todo {
         // insert a new item into our map
         // we pass true as a value
         self.map.insert(key, true);
+    }
+
+    fn save(self) -> Result<(), std::io::Error> {
+        let mut content = String::new();
+        for (k, v) in self.map {
+            let record = format!({}\t{}\n),k,v);
+             }
     }
 }
