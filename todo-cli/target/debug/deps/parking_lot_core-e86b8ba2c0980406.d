@@ -1,0 +1,11 @@
+/home/hitesh/Rust/To-do/todo-cli/target/debug/deps/parking_lot_core-e86b8ba2c0980406.rmeta: /home/hitesh/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.8/src/lib.rs /home/hitesh/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.8/src/parking_lot.rs /home/hitesh/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.8/src/spinwait.rs /home/hitesh/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.8/src/thread_parker/mod.rs /home/hitesh/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.8/src/util.rs /home/hitesh/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.8/src/word_lock.rs /home/hitesh/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.8/src/thread_parker/linux.rs
+
+/home/hitesh/Rust/To-do/todo-cli/target/debug/deps/parking_lot_core-e86b8ba2c0980406.d: /home/hitesh/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.8/src/lib.rs /home/hitesh/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.8/src/parking_lot.rs /home/hitesh/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.8/src/spinwait.rs /home/hitesh/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.8/src/thread_parker/mod.rs /home/hitesh/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.8/src/util.rs /home/hitesh/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.8/src/word_lock.rs /home/hitesh/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.8/src/thread_parker/linux.rs
+
+/home/hitesh/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.8/src/lib.rs:
+/home/hitesh/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.8/src/parking_lot.rs:
+/home/hitesh/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.8/src/spinwait.rs:
+/home/hitesh/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.8/src/thread_parker/mod.rs:
+/home/hitesh/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.8/src/util.rs:
+/home/hitesh/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.8/src/word_lock.rs:
+/home/hitesh/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.8/src/thread_parker/linux.rs:
